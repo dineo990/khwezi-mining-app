@@ -1,0 +1,11 @@
+Equipment_ID,Equipment_Type,Manufacturer,Operating_Hours,Temperature_C,Vibration_mm_s,Fuel_Consumption_L_h,Brake_Status,Tyre_Status,Engine_Status,Maintenance_Status,Downtime_Hours,Availability_Percent
+TRK001,Haul Truck,Caterpillar,6200,76,4.2,8.5,Good,Good,Good,Available,12,88
+TRK002,Haul Truck,Komatsu,7100,84,6.1,9.2,Good,Good,Warning,Available,20,82
+TRK003,Haul Truck,Caterpillar,8400,105,9.4,11.5,Warning,Warning,Critical,Maintenance,75,70
+EXC001,Excavator,Komatsu,5300,78,4.8,7.8,Good,Good,Good,Available,15,86
+EXC002,Excavator,Hitachi,6800,92,7.2,8.9,Warning,Warning,Warning,Available,32,78
+DRL001,Drilling Machine,Sandvik,4100,72,3.9,6.5,Good,Good,Good,Available,10,89
+DRL002,Drilling Machine,Epiroc,4600,101,8.6,7.1,Critical,Critical,Warning,Maintenance,68,73
+LDR001,Loader,CAT,5900,79,4.5,8.1,Good,Good,Good,Available,14,87
+CRS001,Crusher,Metso,9200,88,5.8,6.9,Warning,Warning,Good,Available,40,81
+CNV001,Conveyor,Metso,7600,74,3.5,5.2,Good,Good,Good,Available,18,84

@@ -1,0 +1,11 @@
+Maintenance_ID,Equipment_ID,Maintenance_Date,Completion_Date,Maintenance_Type,Status,Downtime_Hours,Maintenance_Reason
+M001,TRK001,2026-03-10,2026-03-12,Preventive,Completed,18,Routine service
+M002,TRK002,2026-04-05,2026-04-06,Preventive,Completed,8,Brake inspection
+M003,TRK003,2026-07-15,,Corrective,Overdue,75,High vibration and temperature
+M004,EXC001,2026-05-18,2026-05-19,Preventive,Completed,12,Routine service
+M005,EXC002,2026-06-20,,Corrective,Under Maintenance,32,Temperature warning
+M006,DRL001,2026-04-22,2026-04-23,Preventive,Completed,10,Routine service
+M007,DRL002,2026-07-10,,Corrective,Overdue,68,Critical temperature and vibration
+M008,LDR001,2026-05-11,2026-05-12,Preventive,Completed,14,Routine service
+M009,CRS001,2026-06-02,2026-06-05,Preventive,Completed,40,Routine service
+M010,CNV001,2026-06-25,2026-06-26,Preventive,Completed,18,Routine service

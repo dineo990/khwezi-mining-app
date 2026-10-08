@@ -1,0 +1,13 @@
+Worker_ID,Department,Job_Role,Shift,PPE_Compliance,Safety_Training_Status,Fatigue_Level,Safety_Observation,Near_Misses,Previous_Incidents,Risk_Level
+W001,Mining,Driller,Day,Compliant,Completed,Low,Good,0,0,Low
+W002,Processing,Plant Operator,Night,Compliant,Completed,Medium,Good,1,0,Medium
+W003,Maintenance,Fitter,Day,Non-compliant,Completed,High,Needs improvement,2,1,High
+W004,Mining,Haul Truck Operator,Night,Compliant,Completed,Medium,Good,1,1,Medium
+W005,Engineering,Mining Engineer,Day,Compliant,Completed,Low,Good,0,0,Low
+W006,Mining,Excavator Operator,Day,Non-compliant,Expired,High,Poor,2,1,High
+W007,Processing,Conveyor Operator,Night,Compliant,Completed,Low,Good,0,0,Low
+W008,Maintenance,Electrician,Day,Compliant,Completed,Medium,Good,1,0,Medium
+W009,Mining,Driller,Night,Compliant,Completed,High,Needs improvement,1,1,High
+W010,Processing,Plant Operator,Day,Compliant,Completed,Low,Good,0,0,Low
+W011,Mining,Haul Truck Operator,Day,Compliant,Completed,Medium,Good,1,0,Medium
+W012,Maintenance,Fitter,Night,Non-compliant,Expired,High,Poor,3,2,Critical

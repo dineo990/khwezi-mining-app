@@ -1,0 +1,13 @@
+Incident_ID,Date,Time,Shift,Location,Department,Incident_Type,Severity,Injury_Status,Lost_Time_Injury,Cause,Corrective_Action,Incident_Status
+INC001,2026-01-08,07:30,Day,Open Pit,Mining,Slip/Trip,Medium,No,No,Wet walking surface,Improve housekeeping,Open
+INC002,2026-01-15,21:10,Night,Plant,Processing,Equipment Contact,High,Yes,Yes,Operator error,Retraining and inspection,Closed
+INC003,2026-02-03,10:20,Day,Workshop,Maintenance,Hand Injury,Medium,Yes,No,Incorrect PPE,PPE compliance check,Closed
+INC004,2026-02-18,23:40,Night,Open Pit,Mining,Near Miss,High,No,No,Unsafe vehicle distance,Increase traffic monitoring,Open
+INC005,2026-03-06,14:15,Day,Plant,Processing,Fall,High,Yes,Yes,Poor housekeeping,Improve housekeeping,Closed
+INC006,2026-03-22,19:05,Night,Workshop,Maintenance,Electrical,Critical,Yes,Yes,Isolation procedure not followed,Review isolation procedure,Open
+INC007,2026-04-11,08:50,Day,Open Pit,Mining,Vehicle,High,No,No,Unsafe vehicle interaction,Traffic management review,Open
+INC008,2026-04-27,22:25,Night,Plant,Processing,Near Miss,Medium,No,No,Blocked access route,Clear access route,Closed
+INC009,2026-05-09,11:35,Day,Workshop,Maintenance,Slip/Trip,Low,No,No,Oil spill,Improve spill response,Closed
+INC010,2026-05-26,20:40,Night,Open Pit,Mining,Vehicle,Critical,Yes,Yes,Brake system issue,Immediate equipment inspection,Open
+INC011,2026-06-14,09:10,Day,Plant,Processing,Equipment Contact,High,No,No,Guarding issue,Repair guarding,Closed
+INC012,2026-07-02,18:30,Night,Workshop,Maintenance,Electrical,High,Yes,No,Damaged cable,Replace cable,Open
